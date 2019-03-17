@@ -2,3 +2,11 @@
 	path = cores
 	url = https://github.com/Newdigate/cores
 	branch = gnuclipse
+[submodule "SPI"]
+	path = SPI
+	url = https://github.com/newdigate/SPI.git
+	branch = gnuclipse
+[submodule "Wire"]
+	path = Wire
+	url = https://github.com/newdigate/Wire.git
+	branch = gnuclipse
