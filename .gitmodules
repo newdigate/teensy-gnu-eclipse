@@ -1,0 +1,4 @@
+[submodule "cores"]
+	path = cores
+	url = https://github.com/Newdigate/cores
+	branch = gnuclipse
